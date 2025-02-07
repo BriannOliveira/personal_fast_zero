@@ -1,0 +1,10 @@
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar cache do pytest
+.pytest_cache/
+
+.ruff_cache/
